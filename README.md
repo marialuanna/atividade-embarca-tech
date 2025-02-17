@@ -11,7 +11,7 @@ Este projeto IoT foi desenvolvido para o *Raspberry Pi Pico W* e tem como objeti
 
 ---
 
-## 🛠️ Tecnologias e Componentes
+## 🛠 Tecnologias e Componentes
 
 - *Raspberry Pi Pico W* - Microcontrolador principal com Wi-Fi integrado.
 - *Driver CYW43* - Gerencia a funcionalidade Wi-Fi.
