@@ -1,6 +1,8 @@
 # 🚀 Projeto IoT com Raspberry Pi Pico W
 
 ## 📌 Visão Geral
+este projeto foi como um exemplo prático empregando alguns dos coneitos apresentados no trabalho do projeto anterior, um sistema de irrigação automatizado, baseado em Internet das Coi-
+sas (IoT), controlado por meio de um aplicativo móvel, projetado para o cultivo adequado de espécies de plantas específicas. Para que, por meio desse aplicativo, seja possível ao usuário definir data e hora da irrigação, além de oferecer a opção de padronizar para quese repita diariamente. 
 
 Este projeto IoT foi desenvolvido para o *Raspberry Pi Pico W* e tem como objetivo:
 
